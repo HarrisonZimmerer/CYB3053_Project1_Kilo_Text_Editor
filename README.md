@@ -97,7 +97,7 @@ This opens or creates `notes.txt` in the editor.
 
 
 ## Credits
-
+* Project provided by: University of Tulsa — CYB-3053: Operating Systems Concepts
 * Tutorial: [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/) by snaptoken
 * Original code inspiration: [antirez’s kilo](https://github.com/antirez/kilo)
 
