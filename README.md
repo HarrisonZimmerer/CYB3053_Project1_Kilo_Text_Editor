@@ -6,6 +6,8 @@ The goal of this project was to build a fully functional text editor from scratc
 Through this process, I gained hands-on experience with system calls, terminal control, and low-level I/O — core concepts for understanding how operating systems interact with user programs.
 
 The end result is a minimalist text editor based on *antirez’s kilo* (~1000 lines of C in a single file) with features like syntax highlighting and incremental search.
+> This project is part of the University of Tulsa’s **CYB-3053: Operating Systems Concepts** course.  
+> Related projects: [Project 02 — Custom Memory Allocator](https://github.com/HarrisonZimmerer/CYB3053_Project2_Custom_Memeory_Allocator) · [Project 03 — Multithreaded Web Server](https://github.com/HarrisonZimmerer/CYB3053_Project3_Multithreaded_Web_Server)
 
 ### Skills Learned
 
